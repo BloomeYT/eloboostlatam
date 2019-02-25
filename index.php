@@ -193,7 +193,7 @@
                                 </a> 
                                 <h3>CUENTAS</h3> 
                                 <p>Los precios varían desde 40 $USD hasta 80 $USD según el rangos (Oro a Diamante).</p>
-                                <a href="cuentas.html" class="servcies-more-link btn btn-primary">Saber más</a> 
+                                <a href="cuentas.php" class="servcies-more-link btn btn-primary">Saber más</a> 
                             </div> 
                             <div class="col-sm-12 service box-primary"> 
                                 <a href="/servicios/maestr%C3%8Da-7" class="">
